@@ -5,6 +5,8 @@ Judul Tugas : T'Eatos
 
 Deskripsi : T’Eatos merupakan sebuah program untuk memesan sebuah makanan secara delivery atau takeaway. Terdapat 3 kategori dalam program ini: admin dan customer/user.
 
+[![Tubes Daskom](https://skillicons.dev/icons?i=vscode,c)](https://skillicons.dev)
+
 ## Fitur Program :
 Dalam program T'Eatos ini memiliki 2 fitur yang dapat digunakan sebagai role admin dan customer/user.
 
@@ -28,4 +30,9 @@ Dalam program T'Eatos ini memiliki 2 fitur yang dapat digunakan sebagai role adm
 - Bill makanan nanti harus di sorting menurut nama pembeli
 - Logout kembali ke login dan password.
 
-  ## Flowchart :
+## Flowchart :
+
+### Flowchart Admin :
+
+
+### Flowchart User/ Customer :
