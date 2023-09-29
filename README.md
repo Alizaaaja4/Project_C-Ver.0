@@ -1,4 +1,4 @@
-# Tubes Daskom Teatos
+# Tubes Daskom T'Eatos
 Tugas Besar Praktikum Algoritma Pemograman Laboratorium Dasar Komputer 2023
 
 Judul Tugas : T'Eatos
