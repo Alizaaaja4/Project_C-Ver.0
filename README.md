@@ -33,6 +33,5 @@ Dalam program T'Eatos ini memiliki 2 fitur yang dapat digunakan sebagai role adm
 ## Flowchart :
 
 ### Flowchart Admin :
-
-
+![Login](https://github.com/ega24/tubes-daskom-djepret/assets/75112508/e0312b4b-6b27-417e-9942-2326be045084)
 ### Flowchart User/ Customer :
