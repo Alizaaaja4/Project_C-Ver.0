@@ -33,5 +33,7 @@ Dalam program T'Eatos ini memiliki 2 fitur yang dapat digunakan sebagai role adm
 ## Flowchart :
 
 ### Flowchart Admin :
-![Login](https://github.com/Alizaaaja4/tubes-daskom-Teatos/blob/main/Flowchart.T_eatos-ADMIN.drawio.png)
+![Login Admin](https://github.com/Alizaaaja4/tubes-daskom-Teatos/blob/main/Flowchart.T_eatos-ADMIN.drawio.png)
+
 ### Flowchart User/ Customer :
+![Login Admin](https://github.com/Alizaaaja4/tubes-daskom-Teatos/blob/main/Flowchart.T_eatos-USER.drawio.png)
