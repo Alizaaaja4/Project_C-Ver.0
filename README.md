@@ -10,6 +10,9 @@ Deskripsi : T’Eatos merupakan sebuah program untuk memesan sebuah makanan seca
 ## Fitur Program :
 Dalam program T'Eatos ini memiliki 2 fitur yang dapat digunakan sebagai role admin dan customer/user.
 
+![Tampilan](https://github.com/Alizaaaja4/tubes-daskom-Teatos/blob/afe13cc95d2de78966df4785d17f328df7d7009c/Tampilan%20Utama%20T_Eatos.jpeg)
+
+
 ### Admin :
 - Terdapat login admin yang berisi masukkan username dan password yang sudah ditentukan oleh program, jika salah harus diulang sebanyak 3x.
 - Menampilkan jenis restauran dan pelayan.
