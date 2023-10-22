@@ -1,7 +1,7 @@
 # Tubes Daskom T'Eatos
 [![Tubes Daskom](https://skillicons.dev/icons?i=vscode,c)](https://skillicons.dev)
 
-Tugas Besar Praktikum Algoritma Pemograman Laboratorium Dasar Komputer 2023
+Tugas Besar Praktikum Algoritma Pemograman Laboratorium Dasar Komputer 2022/ 2023
 
 Judul Tugas : T'Eatos
 
