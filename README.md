@@ -1,14 +1,18 @@
 # Tubes Daskom T'Eatos
+[![Tubes Daskom](https://skillicons.dev/icons?i=vscode,c)](https://skillicons.dev)
+
 Tugas Besar Praktikum Algoritma Pemograman Laboratorium Dasar Komputer 2023
 
 Judul Tugas : T'Eatos
 
 Deskripsi : T’Eatos merupakan sebuah program untuk memesan sebuah makanan secara delivery atau takeaway. Terdapat 3 kategori dalam program ini: admin dan customer/user.
 
-Kelompok:
-- 
-
-[![Tubes Daskom](https://skillicons.dev/icons?i=vscode,c)](https://skillicons.dev)
+Kelompok TT-46-09: 
+- Muhamad Reski Ramadhani (1101220176)
+- M. ikhsan (1101223022)
+- Aliza Nurfitrian Meizahra (1101223083)
+- Safira Arrahma (1101223392)
+- Andi Muh. Yusuf Fauzan Mahir (1101223396)
 
 ## Fitur Program :
 Dalam program T'Eatos ini memiliki 2 fitur yang dapat digunakan sebagai role admin dan customer/user.
